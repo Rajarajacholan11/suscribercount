@@ -1,0 +1,53 @@
+
+/* .content2 {
+    position: relative;
+    width: 200px;
+    height: 200px;
+} */
+
+.circle {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#0a0131 0deg, #080202 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.circle1 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#0a0131 0deg, #0e0202 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.circle2 {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: conic-gradient(#0a0131 0deg, #080000 0deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.percentage {
+    position: absolute;
+    font-size: 2em;
+    color:white;
+}
+.percentage1{
+    position: absolute;
+    font-size: 2em;
+    color:white;
+}
+.percentage2 {
+    position: absolute;
+    font-size: 2em;
+    color:white;
+}
